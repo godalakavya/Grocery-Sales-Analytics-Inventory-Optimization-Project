@@ -3,8 +3,11 @@
 <img width="1280" height="720" alt="Dashboard Page 1" src="YOUR_DASHBOARD_IMAGE_LINK_HERE" /> <img width="1280" height="720" alt="Dashboard Page 2" src="YOUR_DASHBOARD_IMAGE_LINK_HERE" />
 
 🧭 Project Overview
+
 This project analyzes grocery retail sales and inventory data to optimize
+
 📦 stock availability, 📉 wastage reduction, 📊 demand forecasting, and 💰 profitability improvement.
+
 The solution combines descriptive, predictive, and prescriptive analytics to improve inventory planning and reduce revenue leakage caused by stockouts and overstocking.
 
 🎯 Business Objectives
