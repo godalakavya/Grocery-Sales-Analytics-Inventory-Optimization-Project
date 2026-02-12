@@ -5,6 +5,7 @@
 🧭 Project Overview
 
 This project analyzes grocery retail sales and inventory data to optimize 📦 stock availability, 📉 wastage reduction, 📊 demand forecasting, and 💰 profitability improvement.
+
 The solution combines descriptive, predictive, and prescriptive analytics to improve inventory planning and reduce revenue leakage caused by stockouts and overstocking.
 
 🎯 Business Objectives
